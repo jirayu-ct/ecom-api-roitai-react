@@ -1,9 +1,0 @@
-@import "tailwindcss";
-
-button {
-  cursor: pointer;
-}
-
-select {
-  cursor: pointer;
-}
